@@ -6,6 +6,7 @@ export default function Home() {
         Itt könyveket és filmeket kereshetsz könnyedén. Használd a fenti menüt,
         hogy kiválaszd a keresőlapot!
       </p>
+      <p>aaa</p>
     </div>
   );
 }
